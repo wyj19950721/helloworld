@@ -10,6 +10,7 @@ package com.hello;
 public class HelloWorld {
     public static void main(String[] args) {
         String name = "开敏猪";
+        String id="123";
         System.out.println("Hello"+name);
     }
 }
