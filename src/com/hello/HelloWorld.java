@@ -9,6 +9,7 @@ package com.hello;
  **/
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World！");
+        String name = "开敏猪";
+        System.out.println("Hello"+name);
     }
 }
